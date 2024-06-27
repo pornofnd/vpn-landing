@@ -68,7 +68,7 @@
         Connections
     </h1>
     <ul class="max-w-80 w-full flex flex-col gap-5">
-        <PornoConnection iconName="bxs:bot" name="Telegram Bot" inverted url="https://t.me/pornovpnbot" />
+        <PornoConnection iconName="bxs:bot" name="Telegram Bot" inverted url="https://t.me/pornovpnbot?start=t_2ae417e1074d1eee4935f77e06b66280" />
         <PornoConnection iconName="mdi:loudspeaker" name="Telegram Channel" url="https://t.me/porno_vpn" />
         <PornoConnection iconName="icomoon-free:bubble" name="Telegram Chat" url="https://t.me/pornovpn_chat" />
         <PornoConnection iconName="mdi:github" name="GitHub" url="https://github.com/pornofnd" />
